@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e271f06c-061b-4a9d-8adc-c5ed3cecde91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_helper.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -52,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -92,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,6 +135,7 @@
         <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/test/test_helper.rb" />
       </list>
     </option>
   </component>
@@ -348,12 +359,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504208091646</updated>
-      <workItem from="1504208093872" duration="3738000" />
+      <workItem from="1504208093872" duration="3860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3738000" />
+    <option name="totallyTimeSpent" value="3860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="2044" height="1129" extended-state="6" />
@@ -409,7 +420,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -433,7 +444,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -458,6 +469,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>
