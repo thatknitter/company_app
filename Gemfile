@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.3'
 gem 'bcrypt'
 # Add bootstrap
 gem 'bootstrap-sass'
+# Add jquery
+gem 'jquery-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
