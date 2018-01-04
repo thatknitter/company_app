@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e271f06c-061b-4a9d-8adc-c5ed3cecde91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/integration/users_login_test.rb" afterPath="$PROJECT_DIR$/test/integration/users_login_test.rb" />
-    </list>
+    <list default="true" id="e271f06c-061b-4a9d-8adc-c5ed3cecde91" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -453,12 +449,12 @@
       <workItem from="1510097470207" duration="12042000" />
       <workItem from="1512866104703" duration="594000" />
       <workItem from="1514999852896" duration="2460000" />
-      <workItem from="1515092123996" duration="5652000" />
+      <workItem from="1515092123996" duration="5671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38668000" />
+    <option name="totallyTimeSpent" value="38687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="2033" height="1129" extended-state="0" />
